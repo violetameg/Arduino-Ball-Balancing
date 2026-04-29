@@ -1,0 +1,20 @@
+# --- Arduino Build Artifacts ---
+# Ignore compiled binaries and object files
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+*.ko
+*.so
+*.mod.c
+.tmp_versions/
+*.bak
+
+# --- IDE Specific Files ---
+# Arduino IDE 2.0+ 
+.arduino/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
