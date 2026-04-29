@@ -48,4 +48,4 @@ HOW TO USE
 5. Upload 'final-code.ino' for the full balancing system.
 
 ---
-*Developed by part of a group project for "Introduction to ECE science" subject.*
+*Developed as part of a group project for "Introduction to ECE science" subject.*
