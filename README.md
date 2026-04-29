@@ -2,7 +2,7 @@
 
 PROJECT OVERVIEW
 ----------------
-This project implements a "Ball and Beam" control system using an Arduino. This was developed as a team project to demonstrate the application of PID control in a physical feedback loop. The objective is to maintain a ping-pong ball at a specific setpoint on a beam using active feedback from an ultrasonic sensor and adjustments from a servo motor.
+This project implements a "Ball and Beam" control system using an Arduino. This was developed as a team project to demonstrate the application of PID control in a physical feedback loop. The objective is to balance a ping-pong ball at the center of a beam using active feedback from an ultrasonic sensor and adjustments from a servo motor.
 
 HARDWARE COMPONENTS
 -------------------
@@ -47,5 +47,5 @@ HOW TO USE
 4. Upload 'servo-testing.ino' to verify mechanical range.
 5. Upload 'final-code.ino' for the full balancing system.
 
-## Team credits
-This project was developed as part of a team for
+---
+*Developed by part of a group project for "Introduction to ECE science" subject.*
